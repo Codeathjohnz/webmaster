@@ -1,0 +1,38 @@
+/* Dether.css */
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap');
+
+body {
+  font-family: 'Inconsolata', monospace;
+  background-image: url("https://i.pinimg.com/originals/11/eb/ec/11ebecc7ef79b915f6ee2ca33a5b526a.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+    position: relative;
+    background: url("https://cdn.dribbble.com/users/55063/screenshots/2266143/9_squares_dot.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+  }
+  .button-link {
+    border: 1px solid #007bff;
+    padding: 8px 16px;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .button-link:hover {
+    background-color: #0056b3;
+    color: #fff;
+  }
+  li{
+    background-color: cadetblue;
+  }
+
+  
+  
+  
+  
